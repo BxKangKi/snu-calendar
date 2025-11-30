@@ -1,0 +1,8 @@
+# Visual Studio 2015 user specific files
+.vs/
+.vscode/
+# Cache files for the editor to use
+DerivedDataCache/
+*.DS_Store
+*.code-workspace
+*.ignore
